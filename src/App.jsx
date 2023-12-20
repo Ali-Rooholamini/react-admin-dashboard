@@ -1,5 +1,7 @@
+import Login from "./features/identity/components/login/login";
+
 function App() {
-  return <p>متن تست برای فونت</p>;
+  return <Login />;
 }
 
 export default App;
